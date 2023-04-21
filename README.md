@@ -1,6 +1,6 @@
 <h1 align="center">$\textcolor{white}{\textsf{Valentin's profil}}$ </h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&center=true&width=435&lines=42+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Junior+Full-Stack+Developer+%F0%9F%92%BB;Biggest+Star+Wars+Fan+%F0%9F%AA%90;Passionate+about+video+games+%F0%9F%8E%AE" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&center=true&width=435&lines=42+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Junior+Full-Stack+Developer+%F0%9F%92%BB;Biggest+Star+Wars+Fan+%F0%9F%AA%90;Passionate+About+Video+Games+%F0%9F%8E%AE" alt="Typing SVG" /></a></p>
 <h3 align="center">📋 42 Badge:</h3>
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/stats?cursusId=21&coalitionId=47" alt="vloth's 42 stats" /></a></p>
 </br>
