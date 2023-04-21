@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/stats?cursusId=21&coalitionId=47" alt="vloth's 42 stats" /></a>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/3043188" alt="vloth's 42 CPP Module 01 Score" /></a>
+
+[![vloth's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/3043188)](https://github.com/JaeSeoKim/badge42)
