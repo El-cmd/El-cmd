@@ -4,7 +4,7 @@
 <h3 align="center">📋 42 Badge:</h3>
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/stats?cursusId=21&coalitionId=47" alt="vloth's 42 stats" /></a></p>
 </br>
-<h3 align="center">🗂 42 Projects</h3>
+<h3 align="center">🗂 42 Projects:</h3>
 
 | Project         | Final Score                       | Languages/Techs |
 |---------------- | ----------------------------------|---------------- |
