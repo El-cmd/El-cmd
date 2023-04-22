@@ -1,11 +1,21 @@
 <h1 align="center">$\textcolor{white}{\textsf{Valentin'sprofil}}$ </h1>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&center=true&width=435&lines=42+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Junior+Full-Stack+Developer+%F0%9F%92%BB;Biggest+Star+Wars+Fan+%F0%9F%AA%90;Passionate+About+Video+Games+%F0%9F%8E%AE" alt="Typing SVG" /></a></p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&   center=true&width=435&lines=42+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Junior+Full-Stack+Developer+%F0%9F%92%BB;Biggest+Star+Wars+Fan+%F0%9F%AA%90;Passionate+About+Video+Games+%F0%9F%8E%AE" alt="Typing SVG" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loth-valentin-50378a231/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/loth-valentin-50378a231/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 
 <h3>📋 42 Badge:</h3>
-<p><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/stats?cursusId=21&coalitionId=47" alt="vloth's 42 stats" /></a></p>
+<p>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/stats?cursusId=21&coalitionId=47"        alt="vloth's 42 stats" /></a>
+</p>
+
 </br>
 <h3>🗂 42 Projects:</h3>
 
