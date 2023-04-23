@@ -32,7 +32,7 @@
 | **[CPP Module 07](https://github.com/El-cmd/PiscineCPP)** | | **[CPP Module 08](https://github.com/El-cmd/PiscineCPP)** |
 | **[CPP Module 09](https://github.com/El-cmd/PiscineCPP)** | | Ft_containers |
 | Ft_IRC | | Ft_transcendence |
-
+</br>
 <h3>🛠 Skills</h3>
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
