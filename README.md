@@ -1,4 +1,4 @@
-<h1 align="center">Valentin's profil</h1>
+<h1 align="center">Profil de Valentinl</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&center=true&width=435&lines=Étudiant+42+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Développeur Junior Full-Stack+%F0%9F%92%BB;Fan de Star Wars+%F0%9F%AA%90;Passionné de jeux vidéo+%F0%9F%8E%AE" alt="Typing SVG" /></a>
@@ -10,13 +10,13 @@
   </a>
 </p>
 
-<h3>📋 42 Badge:</h3>
+<h3>📋 Badge 42 :</h3>
 <p>
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/stats?cursusId=21&coalitionId=47" alt="vloth's 42 stats" /></a>
 </p>
 
 </br>
-<h3>🗂 42 Projects:</h3>
+<h3>🗂 Mes projets 42 rendu :</h3>
 
 | **[Libft](https://github.com/El-cmd/libft)** | [![vloth's 42 Libft Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2180153)](https://github.com/JaeSeoKim/badge42) | **[Get_next_line](https://github.com/El-cmd/get_next_line)** | [![vloth's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2208989)](https://github.com/JaeSeoKim/badge42) |
 | :------------: | :------------: | :------------: | :------------: |
@@ -44,17 +44,5 @@
 [![VM](https://img.shields.io/badge/Machines%20virtuelles-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://fr.wordpress.org/)
 
-<h3>🎮 Video Games :</h3>
-<p>
-  <a href="https://steamcommunity.com/id/Vloth/">
-    <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-  </a>
-  <a href="https://www.epicgames.com/id/Vloth">
-    <img src="https://img.shields.io/badge/Epic%20Games-313131.svg?style=for-the-badge&logo=epic%20games&logoColor=white" alt="Epic Games">
-  </a>
-  <a href="https://www.gog.com/u/Vloth">
-    <img src="https://img.shields.io/badge/GOG-%23FF5900.svg?style=for-the-badge&logo=gog&logoColor=white" alt="GOG">
-  </a>
-</p>
 
 
