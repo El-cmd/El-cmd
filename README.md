@@ -1,4 +1,4 @@
-<h1 align="center">Profil de Valentinl</h1>
+<h1 align="center">Profil de Valentin</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=5&pause=1700&color=74F724&center=true&width=435&lines=Étudiant+42+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;Développeur Junior Full-Stack+%F0%9F%92%BB;Fan de Star Wars+%F0%9F%AA%90;Passionné de jeux vidéo+%F0%9F%8E%AE" alt="Typing SVG" /></a>
