@@ -10,11 +10,6 @@
   </a>
 </p>
 
-<h3>📋 Badge 42 :</h3>
-<p>
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/stats?cursusId=21&coalitionId=47" alt="vloth's 42 stats" /></a>
-</p>
-
 </br>
 <h3>🗂 Mes projets 42 rendu :</h3>
 
