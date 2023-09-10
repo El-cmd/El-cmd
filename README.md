@@ -13,7 +13,7 @@
 </br>
 <h3>🗂 Mes projets 42 rendu :</h3>
 
-| **[Libft](https://github.com/El-cmd/libft)** | [![vloth's 42 Libft Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2180153)](https://github.com/JaeSeoKim/badge42) | **[Get_next_line](https://github.com/El-cmd/get_next_line)** | [![vloth's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2208989)](https://github.com/JaeSeoKim/badge42) |
+| **[Libft](https://github.com/El-cmd/libft)** | **125/100** | **[Get_next_line](https://github.com/El-cmd/get_next_line)** | [![vloth's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2208989)](https://github.com/JaeSeoKim/badge42) |
 | :------------: | :------------: | :------------: | :------------: |
 | **[Ft_printf](https://github.com/El-cmd/ft_printf)** | [![vloth's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2357265)](https://github.com/JaeSeoKim/badge42) | **Born2beroot** | [![vloth's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2292985)](https://github.com/JaeSeoKim/badge42) |
 | **[Pipex](https://github.com/El-cmd/Pipex)** | [![vloth's 42 pipex Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2402054)](https://github.com/JaeSeoKim/badge42) | **[Push_swap](https://github.com/El-cmd/Push_Swap-2.0)** | [![vloth's 42 push_swap Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2444994)](https://github.com/JaeSeoKim/badge42) |
