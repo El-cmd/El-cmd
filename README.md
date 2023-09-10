@@ -13,14 +13,14 @@
 </br>
 <h3>🗂 Mes projets 42 rendu :</h3>
 
-| **[Libft](https://github.com/El-cmd/libft)** | Note: **115/100** | **[Get_next_line](https://github.com/El-cmd/get_next_line)** | Note: **125/100** |
+| **[Libft](https://github.com/El-cmd/libft)** | **Note: 115/100** | **[Get_next_line](https://github.com/El-cmd/get_next_line)** | **Note: 125/100** |
 | :------------: | :------------: | :------------: | :------------: |
-| **[Ft_printf](https://github.com/El-cmd/ft_printf)** | Note: **100/100** | **Born2beroot** | Note: **125/100** |
-| **[Pipex](https://github.com/El-cmd/Pipex)** | [![vloth's 42 pipex Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2402054)](https://github.com/JaeSeoKim/badge42) | **[Push_swap](https://github.com/El-cmd/Push_Swap-2.0)** | [![vloth's 42 push_swap Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2444994)](https://github.com/JaeSeoKim/badge42) |
-| **[So_long](https://github.com/El-cmd/So_long)** | [![vloth's 42 so_long Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2426054)](https://github.com/JaeSeoKim/badge42) | **[Philosophers](https://github.com/El-cmd/Philosopher)** | [![vloth's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2679629)](https://github.com/JaeSeoKim/badge42) |
-| **[MiniShell](https://github.com/El-cmd/My_MiniShell)** | [![vloth's 42 minishell Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2908495)](https://github.com/JaeSeoKim/badge42) | **NetPratcice** | [![vloth's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2923008)](https://github.com/JaeSeoKim/badge42) |
-| Cub3D | | **[CPP Module 00](https://github.com/El-cmd/PiscineCPP)** | [![vloth's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/2929926)](https://github.com/JaeSeoKim/badge42) |
-| **[CPP Module 01](https://github.com/El-cmd/PiscineCPP)** | [![vloth's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/clgqf682t003508lb85645y40/project/3043188)](https://github.com/JaeSeoKim/badge42) | **[CPP Module 02](https://github.com/El-cmd/PiscineCPP)** |
+| **[Ft_printf](https://github.com/El-cmd/ft_printf)** | **Note: 100/100** | **Born2beroot** | **Note: 125/100** |
+| **[Pipex](https://github.com/El-cmd/Pipex)** | **Note : 100/100** | **[Push_swap](https://github.com/El-cmd/Push_Swap-2.0)** | ***Note :101/100** |
+| **[So_long](https://github.com/El-cmd/So_long)** | **Note: 115/100** | **[Philosophers](https://github.com/El-cmd/Philosopher)** | **Note: 100/100** |
+| **[MiniShell](https://github.com/El-cmd/My_MiniShell)** | **Note: 1OO/100** | **NetPratcice** | **Note: 100** |
+| Cub3D | | **[CPP Module 00](https://github.com/El-cmd/PiscineCPP)** | **Note: 80/100** |
+| **[CPP Module 01](https://github.com/El-cmd/PiscineCPP)** | **Note: 90/100** | **[CPP Module 02](https://github.com/El-cmd/PiscineCPP)** |
 | **[CPP Module 03](https://github.com/El-cmd/PiscineCPP)** | | **[CPP Module 04](https://github.com/El-cmd/PiscineCPP)** |
 | **[CPP Module 05](https://github.com/El-cmd/PiscineCPP)** | | **[CPP Module 06](https://github.com/El-cmd/PiscineCPP)** |
 | **[CPP Module 07](https://github.com/El-cmd/PiscineCPP)** | | **[CPP Module 08](https://github.com/El-cmd/PiscineCPP)** |
