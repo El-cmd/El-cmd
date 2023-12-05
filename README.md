@@ -20,7 +20,7 @@
 | **[So_long](https://github.com/El-cmd/So_long)** | **Note: 115/100 ✅** | **[Philosophers](https://github.com/El-cmd/Philosopher)** | **Note: 100/100 ✅** |
 | **[MiniShell](https://github.com/El-cmd/My_MiniShell)** | **Note: 100/100 ✅** | **NetPratcice** | **Note: 100/100 ✅** |
 | **[Cub3D](https://github.com/El-cmd/Cub3D)** |  ⌛  | **[CPP Module 00](https://github.com/El-cmd/PiscineCPP)** | **Note: 80/100 ✅** |
-| **[CPP Module 01](https://github.com/El-cmd/PiscineCPP)** | **Note: 90/100 ✅** | **[CPP Module 02](https://github.com/El-cmd/PiscineCPP)** |
+| **[CPP Module 01](https://github.com/El-cmd/PiscineCPP)** | **Note: 90/100 ✅** | **[CPP Module 02](https://github.com/El-cmd/PiscineCPP)** | **Note: 80/100 ✅** |
 | **[CPP Module 03](https://github.com/El-cmd/PiscineCPP)** | | **[CPP Module 04](https://github.com/El-cmd/PiscineCPP)** |
 | **[CPP Module 05](https://github.com/El-cmd/PiscineCPP)** | | **[CPP Module 06](https://github.com/El-cmd/PiscineCPP)** |
 | **[CPP Module 07](https://github.com/El-cmd/PiscineCPP)** | | **[CPP Module 08](https://github.com/El-cmd/PiscineCPP)** |
