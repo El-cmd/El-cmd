@@ -24,7 +24,7 @@
 | **[CPP Module 03](https://github.com/El-cmd/PiscineCPP)** | **Note: 80/100 ✅** | **[CPP Module 04](https://github.com/El-cmd/PiscineCPP)** |
 | **[CPP Module 05](https://github.com/El-cmd/PiscineCPP)** | | **[CPP Module 06](https://github.com/El-cmd/PiscineCPP)** |
 | **[CPP Module 07](https://github.com/El-cmd/PiscineCPP)** | | **[CPP Module 08](https://github.com/El-cmd/PiscineCPP)** |
-| **[CPP Module 09](https://github.com/El-cmd/PiscineCPP)** | | **[CPP Module 10](https://github.com/El-cmd/PiscineCPP)** |
+| **[CPP Module 09](https://github.com/El-cmd/PiscineCPP)** | |
 </br>
 
 
