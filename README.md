@@ -11,7 +11,7 @@
 </p>
 
 </br>
-<h3>🗂 Mes projets 42 rendu :</h3>
+<h3>🗂 Mes projets 42 :</h3>
 
 | **[Libft](https://github.com/El-cmd/libft)** | **Note: 115/100 ✅** | **[Get_next_line](https://github.com/El-cmd/get_next_line)** | **Note: 125/100 ✅** |
 | :------------: | :------------: | :------------: | :------------: |
