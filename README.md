@@ -45,10 +45,6 @@ Développeur passionné, actuellement étudiant à l'École 42. Je me spécialis
 
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=El-cmd&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-
 ## 💻 Compétences Techniques
 
 ### Langages et Technologies
