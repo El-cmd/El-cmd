@@ -29,7 +29,7 @@ Pour plus d'informations ou pour réserver une session, contactez-moi sur [Linke
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-cmd&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+</div> 
 
 ## 🎓 Parcours à 42
 
