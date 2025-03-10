@@ -7,6 +7,9 @@
     <a href="https://www.linkedin.com/in/loth-valentin-50378a231/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+    <a href="https://vloth.tech">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
+    </a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=El-cmd&color=brightgreen&style=flat-square" alt="Profile views"/>
